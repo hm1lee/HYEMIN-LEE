@@ -5,11 +5,13 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/nm1lee)
 
+- - -
+
 ### :mortar_board: Education
 - B.S in School of Information Security, Seoul Woman University  `2017.03 ~ `
 
 ### 🔭 Career
-- Product Manager at SelectStar ```2020.05 ~ 2021. 01```
+- Project Manager at SelectStar ```2020.05 ~ 2021. 01```
 
 ### ⚡ Interests
 - data analysis & crwalling
@@ -18,3 +20,5 @@
 
 #### Contact 📫 nm1lee@naver.com
 
+
+- - -
