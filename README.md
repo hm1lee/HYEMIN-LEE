@@ -15,7 +15,6 @@
 
 ### ⚡ Interests
 - data analysis & crwalling
-- Detection Analysis Target
 - AI + Security
 
 #### Contact 📫 nm1lee@naver.com
